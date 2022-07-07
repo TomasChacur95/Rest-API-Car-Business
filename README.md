@@ -10,3 +10,6 @@ Functionalities:
 * Future Implementations:
   * Swagger
   * Docker
+  
+
+* Virtual enviroment ignored
