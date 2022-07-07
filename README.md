@@ -8,8 +8,10 @@ Functionalities:
   * Brand.
 
 * Future Implementations:
-  * Swagger
-  * Docker
+  * Docker Compose :    
+       * Python
+       * MySql
+       
   
 
 * Virtual enviroment ignored
